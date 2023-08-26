@@ -123,3 +123,6 @@ This is the settings section of the whole application, in which the user can cha
     </td>
   </tr>
 </table>
+
+## Income calculator
+
