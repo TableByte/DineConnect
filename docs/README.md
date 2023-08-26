@@ -2,7 +2,7 @@
 
 The goal of this project is to develop a smartphone application that will assist small hotel owners with their everyday tasks, such as calculating their daily income and making account maintenance simpler. They can use it to look for workers like waiters and chefs, among other positions.
 
-![image](https://github.com/TableByte/DineConnect/assets/96981272/10ec1db0-0591-4f5c-8d26-4a82d8132555)
+![image](https://github.com/TableByte/DineConnect/assets/96981272/613f60dd-4425-4b36-a3bd-a734e519354b)
 
 ## Loging In
 
