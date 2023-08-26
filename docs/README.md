@@ -105,4 +105,21 @@ The user is notified in this section of the application
 
 This is the settings section of the whole application, in which the user can change personal information.
 
-
+<table>
+  <tr>
+    <td>
+      <img src="images/Settings.png">
+    </td>
+    <td>
+      <img src="images/Accounts.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Fig4: Settings section
+    </td>
+    <td>
+      Fig5: Accounts section
+    </td>
+  </tr>
+</table>
