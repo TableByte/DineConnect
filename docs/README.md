@@ -8,3 +8,4 @@ The goal of this project is to develop a smartphone application that will assist
 
 If the user is a new one, they must submit their personal information like name, mobile number, and establish a new username, which will be kept in the database. It performs a straightforward OTP-based login function in which the user must enter their cellphone number for which they receive OTP that allows them to login.
 
+![image](https://github.com/TableByte/DineConnect/assets/96981272/114f67ca-091b-46a1-ae87-cd900029854c)
