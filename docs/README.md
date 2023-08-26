@@ -80,3 +80,29 @@ In this section the user can post jobs
 
 ### Notification Section
 
+The user is notified in this section of the application
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Notification.png">
+    </td>
+    <td>
+      <img src="images/Notification2.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Fig4: Notification section
+    </td>
+    <td>
+      Fig5: On clicking and Notification
+    </td>
+  </tr>
+</table>
+
+### Settings
+
+This is the settings section of the whole application, in which the user can change personal information.
+
+
