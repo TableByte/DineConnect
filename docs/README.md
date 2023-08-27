@@ -93,10 +93,10 @@ The user is notified in this section of the application
   </tr>
   <tr>
     <td>
-      Fig4: Notification section
+      Fig7: Notification section
     </td>
     <td>
-      Fig5: On clicking and Notification
+      Fig8: On clicking and Notification
     </td>
   </tr>
 </table>
@@ -116,13 +116,64 @@ This is the settings section of the whole application, in which the user can cha
   </tr>
   <tr>
     <td>
-      Fig4: Settings section
+      Fig9: Settings section
     </td>
     <td>
-      Fig5: Accounts section
+      Fig10: Accounts section
     </td>
   </tr>
 </table>
 
 ## Income calculator
 
+The user of the Income Calculator will be able to save their hotel menu in the program and use it to produce orders accordingly. It also assists in keeping track of staff and vendors, as well as their salaries.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Calculator.png">
+    </td>
+    <td>
+      <img src="images/Orders.png">
+    </td>
+    <td>
+      <img src="images/CreateOrder.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Fig11: Main page
+    </td>
+    <td>
+      Fig12: Orders page
+    </td>
+    <td>
+      Fig13: Create order page
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Menu.png">
+    </td>
+    <td>
+      <img src="images/Employees.png">
+    </td>
+    <td>
+      <img src="images/Vendors.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Fig14: Menu image
+    </td>
+    <td>
+      Fig15: Employees page
+    </td>
+    <td>
+      Fig16: Vendors page
+    </td>
+  </tr>
+</table>
