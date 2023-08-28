@@ -181,3 +181,7 @@ The user of the Income Calculator will be able to save their hotel menu in the p
 ## Creating and Display of Order page 
 
 The order page, which the user can access in Fig. 12, is shown. Clicking the "Create Order" button will bring up the following screen, shown in Figure 13, where the user can add the names of dishes to the order list and calculate the total. Additionally, the user has the choice to mark a bill as paid when payment has been received; this action is denoted by a green check mark.
+
+## Employee page
+
+The user can add information for hotel employees in the employee page shown in Figure 14 (ie), including their name, phone number, job title (e.g., waiter, maintenance, cleaner), and monthly income.
