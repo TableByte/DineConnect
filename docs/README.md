@@ -184,10 +184,10 @@ The order page, which the user can access in Fig. 12, is shown. Clicking the "Cr
 
 ## Employee page
 
-The user can add information for hotel employees in the employee page shown in Figure 14 (ie), including their name, phone number, job title (e.g., waiter, maintenance, cleaner), and monthly income.
+The user can add information for hotel employees in the employee page shown in Figure 15 (ie), including their name, phone number, job title (e.g., waiter, maintenance, cleaner), and monthly income.
 
 ## Vendors Page
 
-The user can add information about vendors in the vendor page shown in Figure 14 (ie), including their name, phone number, type of vendor, and due paid .
+The user can add information about vendors in the vendor page shown in Figure 16 (ie), including their name, phone number, type of vendor, and due paid .
 
 
