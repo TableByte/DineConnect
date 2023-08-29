@@ -5,7 +5,7 @@ The goal of this project is to develop a smartphone application that will assist
 ![Screenshot 2023-08-26 105633](https://github.com/TableByte/DineConnect/assets/96981272/3200d954-28bc-489f-a729-3c567b8135f4)
 
 
-## Loging In
+## Login
 
 If the user is a new one, they must submit their personal information like name, mobile number, and establish a new username, which will be kept in the database. It performs a straightforward OTP-based login function in which the user must enter their cellphone number for which they receive OTP that allows them to login.
 
@@ -178,10 +178,16 @@ The user of the Income Calculator will be able to save their hotel menu in the p
   </tr>
 </table>
 
-## Creating and Display of Order page 
+## Creating and Displaying of Order page 
 
 The order page, which the user can access in Fig. 12, is shown. Clicking the "Create Order" button will bring up the following screen, shown in Figure 13, where the user can add the names of dishes to the order list and calculate the total. Additionally, the user has the choice to mark a bill as paid when payment has been received; this action is denoted by a green check mark.
 
 ## Employee page
 
 The user can add information for hotel employees in the employee page shown in Figure 14 (ie), including their name, phone number, job title (e.g., waiter, maintenance, cleaner), and monthly income.
+
+## Vendors Page
+
+The user can add information about vendors in the vendor page shown in Figure 14 (ie), including their name, phone number, type of vendor, and due paid .
+
+
