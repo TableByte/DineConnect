@@ -1,1 +1,1 @@
-<img src="images/part 1.png">
+<img src="images/Launcher.png">
