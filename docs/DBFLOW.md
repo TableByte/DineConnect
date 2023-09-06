@@ -1,1 +1,1 @@
-<img src="images/dbdesign1.png">  
+<img src="images/dbdesign.png">  
