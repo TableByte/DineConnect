@@ -5,7 +5,7 @@
 This table contains primary key Phone_no and Foreign key as User_Role_id which connects to user_roles(Table 2) table.
 
 ### Table 2: User_Roles
-This table contains roles of the user.
+This table contains PK as User_role_id and two FK User_Phone_no which connects to User_details (table 1) and Role_id which connects according to the roles i.e Owner_table(Table 3), Manager(Table 4), Employee(Table 5)  table respectively 
 
 ### Table 3: Owner table
 This table has FK referece to manager_id, Hotel_id and Posted_job_id if he posts a job.
