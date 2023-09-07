@@ -26,7 +26,7 @@ This table stores the information regarding the jobs available.
 This table can be used to store the details of the applications applied for the job.
 
 # Create Orders
-<img src="images/dbdesign3.png">  
+![dbdesign3](https://github.com/TableByte/DineConnect/assets/96981272/5a4ffd83-5287-43e6-a822-01b628185d24)
 
 ### Table 9: Billing_table
 This table will conatin the details of the each order by the custormer.
