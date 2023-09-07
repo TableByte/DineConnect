@@ -2,7 +2,7 @@
 ![dbdesign1](https://github.com/TableByte/DineConnect/assets/96981272/020dbf4f-a647-4bfc-9b4d-c00b343769e4) 
 
 ### Table 1: User_details
-This table contains user details such as name, Address and user Role(Owner, manager, employee, job seekers).
+This table contains primary key Phone_no and Foreign key as User_Role_id which connects to user_roles(Table 2) table.
 
 ### Table 2: User_Roles
 This table contains roles of the user.
