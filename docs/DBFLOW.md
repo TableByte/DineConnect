@@ -1,5 +1,5 @@
 # User login and management 
-<img src="images/dbdesign1.png">  
+![dbdesign1](https://github.com/TableByte/DineConnect/assets/96981272/020dbf4f-a647-4bfc-9b4d-c00b343769e4) 
 
 ### Table 1: User_details
 This table contains user details such as name, Address and user Role(Owner, manager, employee, job seekers).
