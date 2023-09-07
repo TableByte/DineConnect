@@ -1,4 +1,6 @@
-<img src="images/dbdesign.png">  
+<img src="images/dbdesign1.png">  
+
+<img src="images/dbdesign3.png">  
 
 ### Table 1: User_details
 This table contains user details such as name, Address and user Role(Owner, manager, employee, job seekers).
