@@ -7,22 +7,13 @@ This table contains primary key Phone_no and Foreign key as User_Role_id which c
 ### Table 2: User_Roles
 This table contains PK as User_role_id and two FK User_Phone_no which connects to User_details (table 1) and Role_id which connects according to the roles i.e Owner_table(Table 3), Manager(Table 4), Employee(Table 5)  table respectively 
 
-### Table 3: Owner table
-This table has FK referece to manager_id, Hotel_id and Posted_job_id if he posts a job.
-
-### Table 4: Manager table
-This table has FK reference to Posted_job_id, Hotel_id, Application_id if he applies to any other job.
-
-### Table 5: Employee
-This table contains employee details such as employee designation salary.
-
-### Table 7: Hotel_Details
+### Table 3: Hotel_Details
 This table conatains hotel details like hotel name and Location.
 
-### Table 6: Jobs_posted
+### Table 4: Jobs_posted
 This table stores the information regarding the jobs available.
 
-### Table 8: Application
+### Table 5: Application
 This table can be used to store the details of the applications applied for the job.
 
 # Create Orders
