@@ -10,10 +10,10 @@ This table contains PK as User_role_id and two FK User_Phone_no which connects t
 ### Table 3: Hotel_Details
 This table conatains hotel details like hotel name and Location.
 
-### Table 4: Jobs_posted
+### Table 4: Application
 This table stores the information regarding the jobs available.
 
-### Table 5: Application
+### Table 5: Jobs_posted
 This table can be used to store the details of the applications applied for the job.
 
 # Create Orders
