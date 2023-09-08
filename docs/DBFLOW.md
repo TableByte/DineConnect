@@ -1,5 +1,5 @@
 # User login and management 
-![dbdesign1](https://github.com/TableByte/DineConnect/assets/96981272/020dbf4f-a647-4bfc-9b4d-c00b343769e4) 
+![dbdesignf](https://github.com/TableByte/DineConnect/assets/96981272/ececef0e-abdc-4eb1-a32d-155be1fe7215)
 
 ### Table 1: User_details
 This table contains primary key Phone_no and Foreign key as User_Role_id which connects to user_roles(Table 2) table.
